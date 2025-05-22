@@ -1,6 +1,9 @@
 ## Hi there 👋
 # 하하하하
-
+<img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/momnmnnmi0/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 <!--
 **manduking12/manduking12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
